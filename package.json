@@ -1,0 +1,22 @@
+{
+  "name": "learn-you-node",
+  "version": "1.0.0",
+  "description": "NodeSchool workshopper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/learnyounode/bin/learnyounode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joilson-cisne/learn-you-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joilson-cisne/learn-you-node/issues"
+  },
+  "homepage": "https://github.com/joilson-cisne/learn-you-node#readme",
+  "dependencies": {
+    "learnyounode": "^3.5.10"
+  }
+}
