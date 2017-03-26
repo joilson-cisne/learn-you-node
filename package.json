@@ -19,6 +19,7 @@
   "dependencies": {
     "bl": "^1.2.0",
     "learnyounode": "^3.5.10",
-    "strftime": "^0.10.0"
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
   }
 }
