@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/joilson-cisne/learn-you-node#readme",
   "dependencies": {
+    "bl": "^1.2.0",
     "learnyounode": "^3.5.10"
   }
 }
